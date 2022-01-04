@@ -1,5 +1,5 @@
-# Défi Hero section!
+# Hero section challenge !
 
-Nouveau défi du Repaire du Web, ici une section "hero" !
+Challenge #16 from "Le Repaire du Web" discord.
 
---> Dispo [ici](https://vavart.github.io/defi-hero-section/) !
+--> Available [here](https://vavart.github.io/defi-hero-section/) !

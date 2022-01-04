@@ -1,4 +1,4 @@
-# Defi Hero section!
+# Défi Hero section!
 
 Nouveau défi du Repaire du Web, ici une section "hero" !
 

@@ -1,3 +1,5 @@
-# Defi : Hero section
+# Defi : Hero section !
 
-Défi : Réaliser une section "hero"  (cf Discord : Le repaire du web)
+Nouveau défi du Repaire du Web, ici une section "hero" !
+
+--> Dispo [ici](https://vavart.github.io/defi-hero-section/) !
